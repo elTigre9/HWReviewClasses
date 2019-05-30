@@ -1,0 +1,11 @@
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\bin\Debug\netcoreapp2.1\HWReviewClasses.deps.json
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\bin\Debug\netcoreapp2.1\HWReviewClasses.runtimeconfig.json
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\bin\Debug\netcoreapp2.1\HWReviewClasses.runtimeconfig.dev.json
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\bin\Debug\netcoreapp2.1\HWReviewClasses.dll
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\bin\Debug\netcoreapp2.1\HWReviewClasses.pdb
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\obj\Debug\netcoreapp2.1\HWReviewClasses.csprojAssemblyReference.cache
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\obj\Debug\netcoreapp2.1\HWReviewClasses.csproj.CoreCompileInputs.cache
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\obj\Debug\netcoreapp2.1\HWReviewClasses.AssemblyInfoInputs.cache
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\obj\Debug\netcoreapp2.1\HWReviewClasses.AssemblyInfo.cs
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\obj\Debug\netcoreapp2.1\HWReviewClasses.dll
+C:\Users\i.c. Stars Guest\source\repos\HWReviewClasses\HWReviewClasses\obj\Debug\netcoreapp2.1\HWReviewClasses.pdb
